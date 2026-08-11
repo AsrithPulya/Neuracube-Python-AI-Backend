@@ -1,0 +1,355 @@
+[
+  {
+    "id": "1_cervical_myelopathy",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "Data not sufficient",
+        "NDI": "Estimated 35-45/100 (moderate-severe disability) \u2014 based on bilateral hand numbness, dropping objects, unsteady gait, and 3-month progressive course; exact subscore breakdown not available",
+        "DASH": "Estimated 45-55/100 \u2014 bilateral hand numbness and dropping objects suggest significant upper extremity functional limitation; full 30-item questionnaire not completed",
+        "QuickDASH": "Estimated 45-55/100 \u2014 consistent with DASH estimate given bilateral hand dysfunction and object-dropping",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Progressive neurological deficit: bilateral hand numbness worsening over 3 months",
+        "Myelopathic signs: positive Hoffman's sign indicating upper motor neuron involvement",
+        "Loss of fine motor control: dropping objects, suggesting cervical myelopathy",
+        "Gait disturbance: unsteady gait consistent with cervical cord compression and myelopathy",
+        "Bilateral upper extremity involvement: suggests central cord or multilevel cervical pathology (C4-C7)",
+        "Age 68 with multilevel cervical involvement (C4-C7): increased risk of rapid neurological deterioration if untreated",
+        "Symptom duration of 3 months with progressive course: warrants urgent surgical evaluation to prevent irreversible cord injury"
+      ]
+    }
+  },
+  {
+    "id": "2_cauda_equina",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "82% (severe disability) - estimated based on VAS back 9/10, inability to urinate, severe bilateral leg weakness, and acute functional limitation",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Acute urinary retention (inability to urinate since morning) - highly suggestive of Cauda Equina Syndrome (CES), a surgical emergency",
+        "Saddle/groin area numbness - classic sign of Cauda Equina Syndrome involving S2-S4 nerve roots",
+        "Severe bilateral lower extremity weakness - indicates significant bilateral neurological compromise",
+        "Bilateral neurological deficits at L4-L5 on MRI - suggests central or large paracentral disc herniation causing cauda equina compression",
+        "Sudden onset severe pain (VAS 9/10) following a mechanical trigger (lifting) with rapid neurological deterioration",
+        "Symptom duration of 1 day with progressive neurological deficit - time-sensitive emergency requiring urgent surgical decompression",
+        "Bilateral leg pain (VAS 8/10) combined with motor and sensory deficits indicating multi-root involvement"
+      ]
+    }
+  },
+  {
+    "id": "3_shoulder_rotator_cuff",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "Data not sufficient",
+        "NDI": "Data not sufficient",
+        "DASH": "Estimated 55-65/100 \u2014 significant overhead activity limitation, night pain, inability to lift arm above head in a manual laborer",
+        "QuickDASH": "Estimated 55-65/100 \u2014 based on inability to lift arm overhead, night pain, and occupational impairment as a painter",
+        "ASES": "Estimated 35-45/100 \u2014 pain score ~7/10 and significant functional limitation (unable to raise arm overhead); ASES = (10 - VAS) x 5 + (function subscore ~15-20/50) \u2248 40/100",
+        "Constant": "Estimated 40-50/100 \u2014 pain ~7/10 (maps to ~5/15 pain subscore), limited ADLs, severely restricted active elevation and abduction, reduced strength expected",
+        "UCLA Shoulder": "Estimated 12-16/35 \u2014 pain at rest and with activity, inability to raise arm above head, functional limitation in overhead work",
+        "SPADI": "Estimated 60-75/100 \u2014 significant pain (7/10) and disability with overhead activities; both pain and disability subscales expected to be markedly elevated",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Night pain: Patient reports significant shoulder pain at night, which can be a red flag for rotator cuff pathology, malignancy, or infection",
+        "Occupational overuse: Patient is a painter with repetitive overhead activity \u2014 high risk for rotator cuff tear or impingement syndrome",
+        "Inability to lift arm above head with 6-month duration: Prolonged functional limitation may indicate a full-thickness rotator cuff tear or adhesive capsulitis requiring urgent evaluation",
+        "Pain severity 7/10: Moderate-to-severe pain level warrants thorough imaging and clinical assessment to rule out structural pathology"
+      ]
+    }
+  },
+  {
+    "id": "4_hip_osteoarthritis",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "Data not sufficient",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Estimated moderate-to-severe: Pain subscore ~40/100, Stiffness ~50/100, Function ~45/100 (composite ~43/100) \u2014 based on 2-year hip pain, difficulty walking, and difficulty with activities of daily living such as putting on socks; formal scoring requires full questionnaire",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Estimated: Pain subscore ~45/100, ADL subscore ~40/100, Quality of Life ~30/100 \u2014 based on groin pain, antalgic gait, and functional limitation over 2 years; formal scoring requires full questionnaire",
+        "Harris Hip": "Estimated: ~55\u201365/100 (Poor range) \u2014 based on significant groin pain with walking, limp, and difficulty with ADLs such as sock donning over 2 years; formal scoring requires full questionnaire",
+        "Oxford Hip": "Estimated: ~25\u201330/48 (Moderate-to-severe dysfunction) \u2014 based on chronic left hip pain, functional limitation, and gait disturbance; formal scoring requires full questionnaire",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Age 72 with 2-year progressive hip pain \u2014 malignancy (primary or metastatic) should be excluded",
+        "Diabetes increases risk of septic arthritis and osteomyelitis \u2014 infectious etiology should be considered",
+        "Antalgic gait (limping) suggesting significant functional deterioration",
+        "Groin pain pattern may indicate avascular necrosis of the femoral head, especially in the context of diabetes and age",
+        "Inability to perform basic ADLs (sock donning) indicating significant functional decline",
+        "No mention of night pain or unexplained weight loss, but these should be actively screened given age and symptom duration",
+        "Hypertension and diabetes increase perioperative risk if surgical intervention is considered"
+      ]
+    }
+  },
+  {
+    "id": "5_knee_acl_tear",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "Data not sufficient",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Estimated: ~45-55/100 (Poor) \u2014 based on acute knee injury with immediate swelling, instability, and 2-week symptom duration suggesting significant impairment across pain, symptoms, ADL, sport, and QoL subscales",
+        "IKDC": "Estimated: ~30-40/100 (Abnormal) \u2014 acute traumatic knee injury with effusion and instability consistent with ligamentous injury (likely ACL tear); significant functional limitation expected",
+        "Lysholm": "Estimated: ~40-55/100 (Fair to Poor) \u2014 instability, swelling, and functional limitation following acute knee injury with audible/felt pop",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Estimated: ~25-30/48 (Moderate-Severe difficulty) \u2014 acute knee injury with swelling and instability limiting daily activities",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Acute traumatic hemarthrosis (immediate swelling after pop) \u2014 high suspicion for ACL rupture, osteochondral fracture, or meniscal root tear requiring urgent MRI evaluation",
+        "Mechanical instability on ambulation \u2014 suggests significant ligamentous disruption (e.g., ACL tear) which may require surgical intervention if confirmed",
+        "Audible/felt 'pop' at time of injury \u2014 classic presentation of ACL rupture or significant ligamentous/meniscal injury; warrants prompt orthopedic referral",
+        "Age 22 with acute sports-related knee injury \u2014 risk of associated meniscal tear or chondral damage requiring timely diagnosis to prevent long-term joint damage"
+      ]
+    }
+  },
+  {
+    "id": "6_simple_lumbar_radiculopathy",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "38/100 (estimated moderate disability) \u2014 based on VAS back 5/10, VAS leg 7/10, 4-week duration, radiculopathy with sensory symptoms, no weakness, no bladder dysfunction; estimated sections: pain intensity ~3, personal care ~1, lifting ~3, walking ~2, sitting ~3, standing ~3, sleeping ~2, sex life ~1, social life ~2, travelling ~2",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "No red flags identified: bladder control is intact, no bowel dysfunction reported",
+        "Neurological sensory symptom present (pins and needles in foot) \u2014 warrants monitoring for progression to motor deficit",
+        "Leg pain (VAS 7/10) exceeds back pain (VAS 5/10) with radiation to calf \u2014 consistent with L5-S1 left-sided radiculopathy; if neurological deficit progresses (e.g., foot drop, worsening weakness), this would become a red flag requiring urgent reassessment",
+        "No progressive neurological deficit currently reported",
+        "No bowel or bladder dysfunction reported",
+        "No unexplained weight loss reported",
+        "No fever reported",
+        "No night pain specifically reported",
+        "No prior spine surgery \u2014 not a red flag but noted",
+        "Symptom duration of 4 weeks \u2014 subacute; not yet chronic but warrants close follow-up if no improvement with conservative management"
+      ]
+    }
+  },
+  {
+    "id": "7_tumor_red_flag",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "72/100 (estimated severe disability) \u2014 based on VAS back 8/10, significant functional limitation implied by severe night pain and systemic illness",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Night pain (severe back pain worse at night) \u2014 classic red flag for malignancy or infection",
+        "Unintentional weight loss of 15 lbs in 1 month \u2014 strongly suggestive of systemic malignancy or serious underlying pathology",
+        "Known history of prostate cancer \u2014 high suspicion for spinal metastatic disease, particularly at T12-L2 level",
+        "Bilateral imaging findings at T12-L2 \u2014 raises concern for epidural or vertebral metastatic involvement",
+        "Symptom duration of 2 months with progressive severity \u2014 suggests evolving pathological process",
+        "Age 60 with new-onset severe axial back pain and cancer history \u2014 warrants urgent oncologic and spinal workup",
+        "Risk of pathological fracture and spinal cord compression given metastatic disease suspicion at thoracolumbar junction"
+      ]
+    }
+  },
+  {
+    "id": "8_infection_red_flag",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "72/100 (estimated severe disability) \u2014 based on VAS back 10/10, 1-week duration of excruciating pain, systemic illness (fever/chills) severely limiting all activities of daily living",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Fever and chills \u2014 systemic signs of infection raising concern for spinal infection (discitis, osteomyelitis, or epidural abscess)",
+        "Recent UTI treated with antibiotics \u2014 potential hematogenous seeding of the spine (L3-L4) leading to infectious spondylodiscitis",
+        "Excruciating back pain (VAS 10/10) with acute onset (1 week) \u2014 severe, rapidly progressive pain disproportionate to mechanical causes",
+        "Prior spine surgery \u2014 increased risk of post-surgical spinal infection or hardware-related infection",
+        "Diabetes mellitus \u2014 immunocompromised state significantly elevating risk of spinal infection and poor wound healing",
+        "MRI findings at L3-L4 bilateral \u2014 imaging level correlates with clinical suspicion for infectious spondylodiscitis or epidural abscess requiring urgent evaluation",
+        "Night pain / rest pain implied by constant severe VAS 10 \u2014 non-mechanical pain pattern suggestive of infectious or neoplastic etiology",
+        "Risk of progressive neurological deficit \u2014 untreated spinal epidural abscess or discitis at L3-L4 can rapidly cause cauda equina compromise"
+      ]
+    }
+  },
+  {
+    "id": "9_hand_wrist_fracture",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "Data not sufficient",
+        "NDI": "Data not sufficient",
+        "DASH": "Estimated 60-75/100 (severe functional limitation due to inability to grip, acute wrist pain and swelling following trauma)",
+        "QuickDASH": "Estimated 60-75/100 (severe upper extremity disability; cannot grip objects, severe wrist pain)",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Estimated 60-80/100 (severe wrist pain at rest and with activity, inability to grip suggests marked functional impairment in the acute post-injury period)"
+      },
+      "redFlags": [
+        "Acute traumatic wrist injury with severe pain and swelling \u2014 possible distal radius fracture, scaphoid fracture, or carpal dislocation requiring urgent imaging review and orthopedic evaluation",
+        "Complete loss of grip strength \u2014 may indicate significant structural injury (fracture, ligamentous disruption, or neurovascular compromise)",
+        "Mechanism of injury (fall on outstretched hand) raises concern for scaphoid fracture, which may not be visible on initial X-ray and can lead to avascular necrosis if missed",
+        "Acute onset (1 day) with inability to perform basic hand function \u2014 warrants prompt clinical and radiological assessment to rule out neurovascular injury"
+      ]
+    }
+  },
+  {
+    "id": "10_missing_data_minimal",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "Estimated 10-20% (mild disability) based on VAS back 3/10, no leg pain, and vague complaint; insufficient detail for precise calculation",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Symptom duration not provided \u2014 unable to assess acuity or chronicity, which may mask red flag timeline (e.g., rapidly progressive symptoms)",
+        "Primary complaint is vague ('Back hurts') \u2014 insufficient detail to rule out serious pathology such as malignancy, infection, or fracture",
+        "No comorbidities reported but age 55 with back pain warrants screening for osteoporosis, malignancy, or vascular causes",
+        "No mention of night pain, fever, unexplained weight loss, or bowel/bladder dysfunction \u2014 these were not explicitly denied and should be formally assessed",
+        "No neurological symptom assessment documented \u2014 progressive neurological deficit cannot be excluded"
+      ]
+    }
+  }
+]

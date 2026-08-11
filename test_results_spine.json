@@ -1,0 +1,371 @@
+[
+  {
+    "id": "1_isthmic_spondy",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "52/100 (estimated - severe disability based on VAS back 7/10, failed conservative therapy, 18 months duration, bilateral radiculopathy, inability to stand prolonged)",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Bilateral L5 radiculopathy: bilateral neurological involvement raises concern for central canal stenosis or cauda equina syndrome risk - requires urgent MRI evaluation",
+        "Progressive and severe mechanical low back pain (VAS 7/10) with failed conservative therapy over 18 months suggests possible structural instability (e.g., spondylolisthesis at L5-S1)",
+        "Extension-worsening pain pattern may indicate spondylolysis, spondylolisthesis, or foraminal stenosis at L5-S1 requiring advanced imaging (MRI/CT) beyond plain X-ray",
+        "Imaging modality limited to X-ray only - insufficient to rule out disc herniation, nerve compression, tumor, or infection causing bilateral radiculopathy",
+        "Bilateral radiculopathy without documented bowel/bladder status - cauda equina syndrome must be actively excluded; bowel/bladder function assessment is critical and not documented",
+        "18-month symptom duration with failed conservative therapy and worsening symptoms may indicate progressive neurological compromise requiring surgical evaluation"
+      ]
+    }
+  },
+  {
+    "id": "2_tandem_stenosis",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "52/100 (estimated moderate-severe disability) \u2014 based on neurogenic claudication limiting walking to <100m, heavy legs, VAS leg 6, VAS back 4, 8-month duration",
+        "NDI": "38/100 (estimated moderate disability) \u2014 based on progressive hand clumsiness, dropping objects, cervical myelopathy symptoms affecting ADLs, 8-month duration",
+        "DASH": "48/100 (estimated) \u2014 based on progressive hand clumsiness, dropping objects, bilateral upper extremity involvement at C4-C6 affecting fine motor tasks",
+        "QuickDASH": "50/100 (estimated) \u2014 consistent with DASH estimate given bilateral hand dysfunction and myelopathic symptoms",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Progressive neurological deficit: progressive hand clumsiness and dropping objects over 8 months suggesting cervical myelopathy (C4-C6 bilateral compression)",
+        "Neurogenic claudication with significant functional limitation (walking <100 meters) suggesting severe lumbar spinal stenosis (L3-L5 bilateral)",
+        "Heavy legs: possible sign of upper motor neuron involvement or severe lumbar stenosis with cord/cauda equina compromise",
+        "Age 71 with osteoporosis: increased risk of pathological fracture, instability, and surgical complexity",
+        "Bilateral imaging involvement at both cervical (C4-C6) and lumbar (L3-L5) levels: tandem spinal stenosis \u2014 high-risk condition requiring urgent evaluation",
+        "Diabetes: increased risk of peripheral neuropathy (may mask or confound neurological findings), poor wound healing, and surgical risk",
+        "8-month progressive course without prior surgical intervention: risk of irreversible spinal cord damage if cervical myelopathy not addressed promptly",
+        "Potential bowel/bladder dysfunction risk: cauda equina involvement at L3-L5 must be screened urgently \u2014 not explicitly reported but must be assessed given bilateral lumbar stenosis",
+        "Osteoporosis: risk of vertebral compression fractures and instrumentation failure if surgical intervention is required"
+      ]
+    }
+  },
+  {
+    "id": "3_adult_spinal_deformity",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "62/100 (estimated severe disability) \u2014 based on VAS back 8/10, inability to stand upright for ADLs (washing dishes), 5-year duration, significant functional limitation in standing/walking posture",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Severe functional disability: inability to perform basic ADLs (cannot stand upright to wash dishes) suggesting significant sagittal imbalance / adult spinal deformity",
+        "Progressive postural deformity (forward pitched posture / camptocormia pattern) over 5 years \u2014 may indicate progressive neurological or structural deterioration",
+        "Mild leg pain (VAS 3/10) in the context of lumbar pathology \u2014 possible early neurogenic claudication or radiculopathy requiring further neurological evaluation",
+        "Osteopenia in a 68-year-old female with severe axial back pain \u2014 elevated risk of vertebral compression fracture (pathological or insufficiency fracture) which must be ruled out",
+        "Age 68 with new or worsening spinal deformity \u2014 malignancy (primary or metastatic) should be excluded, particularly if night pain or unexplained weight loss is present",
+        "Hypertension as comorbidity \u2014 relevant for surgical risk stratification and perioperative management if intervention is considered",
+        "5-year symptom duration without prior surgery \u2014 risk of fixed sagittal imbalance and potential irreversible muscle/ligamentous changes"
+      ]
+    }
+  },
+  {
+    "id": "4_recurrent_herniation",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "62/100 (estimated severe disability) \u2014 based on VAS leg 9/10, prior surgery with recurrence, significant functional limitation implied by acute re-injury event",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Recurrent disc herniation post-microdiscectomy with acute onset severe radiculopathy (VAS leg 9/10) \u2014 risk of re-herniation requiring urgent MRI and possible surgical re-evaluation",
+        "Acute neurological symptom recurrence after a mechanical event (lifting) \u2014 raises concern for re-herniation or epidural hematoma/seroma at prior surgical site",
+        "Active smoker \u2014 impairs disc healing, increases risk of re-herniation and poor surgical outcomes",
+        "Severity of leg pain (VAS 9/10) with S1 distribution \u2014 must rule out progressive neurological deficit, foot drop, or cauda equina involvement",
+        "Bowel/bladder dysfunction not explicitly reported but must be actively screened given S1-level pathology and post-surgical context \u2014 cauda equina syndrome red flag",
+        "Prior spine surgery within 3 months \u2014 increased risk of post-operative complications including epidural fibrosis, seroma, hematoma, or infection at surgical site"
+      ]
+    }
+  },
+  {
+    "id": "5_adjacent_segment_disease",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "Data not sufficient",
+        "NDI": "Estimated 28/50 (moderate disability) \u2014 based on new-onset radiculopathy with triceps weakness, 3-month duration, prior cervical surgery; exact ADL/pain/concentration subscores unavailable",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Progressive neurological deficit: new-onset triceps weakness (C7 myotomal weakness) indicating motor involvement of C7 nerve root",
+        "Prior cervical spine surgery (C5-C6 ACDF 4 years ago) with new adjacent-level pathology at C6-C7, raising concern for adjacent segment disease",
+        "New radiculopathy at a level adjacent to prior fusion \u2014 risk of accelerated degeneration or hardware-related issues",
+        "Motor weakness (triceps) present for 3 months without documented improvement \u2014 prolonged motor deficit may indicate need for surgical evaluation",
+        "Age 61 with hypothyroidism \u2014 hypothyroidism can contribute to peripheral neuropathy and may confound neurological findings; also associated with increased surgical risk if intervention is considered"
+      ]
+    }
+  },
+  {
+    "id": "6_central_cord_syndrome",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "Data not sufficient",
+        "NDI": "72/100 (estimated severe disability) - based on severe acute neurological deficit affecting hand function, pain, and likely significant limitation in personal care, lifting, reading, headaches, concentration, work, driving, sleeping, and recreation",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Acute onset severe neurological deficit: sudden severe weakness in both upper extremities, particularly hands, following trauma - consistent with acute cervical spinal cord injury",
+        "Central cord syndrome pattern: disproportionate upper extremity weakness greater than lower extremity weakness with bilateral involvement following hyperextension injury in elderly patient with pre-existing cervical spondylosis",
+        "Bilateral upper extremity neurological involvement: suggests spinal cord-level pathology rather than peripheral nerve or nerve root injury",
+        "Lower extremity spasticity/stiffness: bilateral leg stiffness indicating upper motor neuron involvement and myelopathy",
+        "Burning neuropathic pain in hands: indicates spinal cord or central neurological involvement",
+        "Hyperextension mechanism of injury (fell forward striking face) in patient with known cervical spondylosis: high-risk mechanism for central cord syndrome without fracture",
+        "Symptom duration 6 hours: acute traumatic myelopathy requiring urgent neurosurgical evaluation and possible emergent intervention",
+        "Age 78 with pre-existing cervical spondylosis: narrowed spinal canal increases vulnerability to cord injury with minor trauma",
+        "Atrial fibrillation as comorbidity: patient likely on anticoagulation therapy, which increases risk of epidural hematoma and complicates surgical management",
+        "Potential bowel and bladder dysfunction: not explicitly stated but must be urgently assessed given the level and severity of cord involvement",
+        "Progressive neurological deficit risk: acute traumatic central cord syndrome can progress, requiring close monitoring",
+        "Bilateral MRI cervical imaging indicated: urgent MRI to assess cord compression, signal change (T2 hyperintensity indicating edema/contusion), disc herniation, ligamentous injury, or epidural hematoma"
+      ]
+    }
+  },
+  {
+    "id": "7_pyogenic_spondylodiscitis",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "Data not sufficient",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Fever: systemic infection strongly suspected, consistent with spinal epidural abscess or vertebral osteomyelitis/discitis",
+        "Night sweats: systemic infectious or malignant etiology",
+        "Intravenous drug use (IVDU): major risk factor for hematogenous spinal infection (osteomyelitis, discitis, epidural abscess)",
+        "Non-mechanical mid-back pain: pain not relieved by rest or positional change, raising concern for infectious, inflammatory, or neoplastic etiology",
+        "Inability to get out of bed (severe functional impairment): suggests critical severity of underlying pathology",
+        "VAS back pain 10/10: extreme pain intensity indicating serious underlying pathology",
+        "MRI findings at T8-T9 bilateral: imaging evidence of structural pathology at thoracic spine level, consistent with discitis/osteomyelitis or epidural abscess",
+        "Hepatitis C comorbidity: associated with IVDU and immunocompromised state, increasing infection risk",
+        "3-week duration of progressive symptoms: subacute course consistent with evolving spinal infection",
+        "Risk of spinal cord compression: thoracic epidural abscess or vertebral collapse at T8-T9 can cause rapid-onset paraplegia requiring emergent surgical intervention"
+      ]
+    }
+  },
+  {
+    "id": "8_pathologic_fracture",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "72/100 (estimated severe disability) \u2014 based on VAS back 9/10, acute onset, likely limited mobility, ADL restriction inferred from severity",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Known malignancy (breast cancer) with new acute spinal pain \u2014 high suspicion for spinal metastasis or pathological fracture at T11",
+        "Sudden onset severe mid-back pain (VAS 9/10) triggered by coughing \u2014 suggestive of pathological vertebral fracture",
+        "Progressive neurological deficit \u2014 right leg heaviness indicating possible myelopathy or cord compression at T11 level",
+        "CT imaging finding at T11 right side in a patient with known breast cancer \u2014 urgent evaluation for epidural metastasis or cord compression required",
+        "Symptom duration of only 2 days with rapid onset neurological involvement \u2014 risk of rapid progression to paraplegia if cord compression not addressed",
+        "Night pain and mechanical instability cannot be excluded given the clinical context",
+        "Age 65 with breast cancer history \u2014 risk of osteoporotic and/or metastatic pathological fracture"
+      ]
+    }
+  },
+  {
+    "id": "9_conus_medullaris",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "72/100 (estimated severe disability) \u2014 based on severe bowel dysfunction (fecal incontinence, maximum score on that domain), moderate back pain VAS 6, and assumed significant limitation in personal care, lifting, walking, sitting, standing, sleeping, and social life due to acute cauda equina syndrome presentation",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Fecal incontinence \u2014 bowel dysfunction indicating possible cauda equina syndrome (CES), a surgical emergency",
+        "Bilateral perianal (saddle) numbness \u2014 classic sign of cauda equina compression requiring urgent MRI and surgical evaluation",
+        "Acute onset of neurological deficits within 12 hours \u2014 rapid progression indicating possible cauda equina syndrome",
+        "Bilateral lower extremity involvement (bilateral imaging findings at T12-L1) \u2014 suggests central or large disc herniation compressing the cauda equina",
+        "Low back pain with concurrent neurological signs \u2014 combination raises high suspicion for serious spinal pathology",
+        "Young patient (35F) with sudden-onset bilateral neurological symptoms \u2014 atypical presentation warranting urgent workup to rule out tumor, vascular event, or large disc herniation",
+        "Symptom duration of only 12 hours \u2014 acute cauda equina syndrome requires emergent surgical decompression within 24-48 hours to optimize neurological recovery"
+      ]
+    }
+  },
+  {
+    "id": "10_epidural_hematoma",
+    "success": true,
+    "output": {
+      "scores": {
+        "ODI": "Data not sufficient",
+        "NDI": "Data not sufficient",
+        "DASH": "Data not sufficient",
+        "QuickDASH": "Data not sufficient",
+        "ASES": "Data not sufficient",
+        "Constant": "Data not sufficient",
+        "UCLA Shoulder": "Data not sufficient",
+        "SPADI": "Data not sufficient",
+        "KOOS": "Data not sufficient",
+        "IKDC": "Data not sufficient",
+        "Lysholm": "Data not sufficient",
+        "WOMAC": "Data not sufficient",
+        "Oxford Knee": "Data not sufficient",
+        "HOOS": "Data not sufficient",
+        "Harris Hip": "Data not sufficient",
+        "Oxford Hip": "Data not sufficient",
+        "AOFAS": "Data not sufficient",
+        "FAAM": "Data not sufficient",
+        "PRWE": "Data not sufficient"
+      },
+      "redFlags": [
+        "Rapidly progressive bilateral lower extremity weakness \u2014 highly suggestive of cauda equina syndrome or epidural hematoma requiring emergency evaluation",
+        "Severe excruciating back pain (VAS 9/10) in the immediate post-operative period following lumbar decompression \u2014 raises concern for surgical site complication such as epidural hematoma",
+        "Post-operative epidural hematoma risk: patient is on Eliquis (apixaban) for atrial fibrillation, which was held for surgery but residual anticoagulant effect may still be present, significantly increasing bleeding risk",
+        "Bilateral neurological deficit (bilateral leg weakness) \u2014 indicates central or bilateral nerve root compromise, consistent with cauda equina syndrome",
+        "Acute onset within 4 hours of symptom progression \u2014 time-critical emergency; surgical decompression window is narrow (ideally within 6 hours for cauda equina syndrome)",
+        "Recent spinal surgery (lumbar decompression within 24 hours) with new acute neurological deterioration \u2014 must rule out post-operative epidural hematoma as a surgical emergency",
+        "MRI findings at L3-L4 bilateral \u2014 imaging level correlates with cauda equina territory; urgent MRI review or repeat MRI is mandatory",
+        "Atrial fibrillation with anticoagulation use (Eliquis) \u2014 increases perioperative hemorrhagic complication risk",
+        "Age 70 with comorbidities \u2014 increased vulnerability to complications and reduced physiological reserve",
+        "Potential bowel and bladder dysfunction not explicitly reported but must be urgently assessed given clinical picture of suspected cauda equina syndrome"
+      ]
+    }
+  }
+]

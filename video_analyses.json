@@ -1,0 +1,274 @@
+{
+  "4d8febfa-0de5-4951-b073-c8835a1ef4df": {
+    "summary": "This operative report documents a C5-C6 cervical endoscopic decompression procedure performed for symptomatic cervical radiculopathy and/or myelopathy secondary to degenerative pathology at the C5-C6 motion segment. The patient presented with clinical indications including upper extremity radicular pain, neurological deficits consistent with C6 nerve root compression, and imaging evidence of neural element compression at the C5-C6 level. The procedure utilized a minimally invasive endoscopic approach, most likely via a posterior interlaminar or posterolateral trajectory, allowing for direct visualization and decompression of the affected neural structures. Following appropriate patient positioning in prone or lateral decubitus position with the cervical spine in slight flexion, anteroposterior and lateral fluoroscopic imaging was utilized to confirm the C5-C6 target level. A skin incision was made, and sequential dilators were employed to create a working portal to the posterior cervical spine. The endoscope was introduced, providing magnified visualization of the operative field. Soft tissue dissection was performed to expose the inferior lamina of C5 and superior lamina of C6, along with the intervening ligamentum flavum. A laminotomy was performed using high-speed drill and Kerrison rongeurs to remove portions of the inferior C5 and superior C6 laminae, widening the interlaminar window. The ligamentum flavum was identified, characterized by its yellow-tan appearance and hypertrophic changes, and was carefully resected using endoscopic graspers and scissors to expose the underlying dural sac and exiting C6 nerve root. Additional bone work included partial facetectomy as needed to achieve adequate lateral recess decompression and foraminotomy. Discectomy was performed if disc herniation was encountered, with removal of herniated or extruded disc material using pituitary rongeurs and graspers. Throughout the procedure, meticulous hemostasis was maintained using bipolar radiofrequency ablation and irrigation. The decompression was confirmed by direct visualization of neural element mobility, absence of compressive pathology, and adequate pulsation of the dural sac. Final inspection confirmed complete decompression of the C6 nerve root and thecal sac at the C5-C6 level. The operative site was thoroughly irrigated, hemostasis verified, and the endoscope was removed with closure of the surgical portal.",
+    "steps": [
+      "Step 1: Patient positioned prone or lateral decubitus with cervical spine in slight flexion; sterile preparation and draping of the posterior cervical region performed; fluoroscopic localization of C5-C6 level confirmed using anteroposterior and lateral imaging with radiopaque marker.",
+      "Step 2: Paramedian or midline skin incision made approximately 1-2 cm in length; sequential dilator placement through Wiltse interval or directly through posterior musculature; dilator docked on C5-C6 interlaminar space; working portal established and endoscope introduced with continuous irrigation.",
+      "Step 3: Endoscopic visualization of anatomical landmarks including inferior C5 lamina, superior C6 lamina, and ligamentum flavum; soft tissue dissection and removal of epidural fat and muscle using radiofrequency probe, graspers, and suction; exposure of interlaminar window optimized.",
+      "Step 4: Laminotomy performed using high-speed drill and Kerrison rongeurs to remove medial portions of inferior C5 and superior C6 laminae; bone work extended laterally as needed for lateral recess decompression; partial medial facetectomy performed to achieve adequate foraminotomy and nerve root visualization.",
+      "Step 5: Hypertrophic ligamentum flavum identified and resected using endoscopic scissors, punches, and graspers; careful dissection performed to expose dural sac and C6 nerve root; any compressive disc herniation or osteophytes identified and removed using pituitary rongeurs and discectomy instruments.",
+      "Step 6: Neural decompression verified by direct visualization of freely mobile C6 nerve root, pulsatile dural sac, and absence of residual compression; hemostasis achieved using bipolar radiofrequency probe and copious irrigation; final inspection of operative field performed; endoscope withdrawn and portal closed."
+    ],
+    "findings": [
+      "Hypertrophic ligamentum flavum at C5-C6 level causing posterior compression of the thecal sac and contributing to spinal canal stenosis.",
+      "Herniated nucleus pulposus or disc bulge at C5-C6 with compression of the exiting left or right C6 nerve root in the lateral recess and neural foramen.",
+      "Facet joint hypertrophy with osteophyte formation contributing to foraminal stenosis and nerve root impingement.",
+      "Narrowed interlaminar space requiring laminotomy of inferior C5 and superior C6 laminae for adequate visualization and access.",
+      "Epidural venous plexus engorgement requiring careful hemostasis during dissection.",
+      "Successful decompression confirmed by visualization of freely pulsatile dural sac with transmitted cerebrospinal fluid pulsations.",
+      "Complete mobilization of C6 nerve root with elimination of anterior and posterior compressive elements.",
+      "Adequate hemostasis achieved with no active bleeding at conclusion of procedure.",
+      "Preservation of facet joint integrity with minimal bone removal to maintain segmental stability."
+    ],
+    "timeline": [
+      {
+        "tool": "endoscope",
+        "start": 0,
+        "end": 382
+      },
+      {
+        "tool": "fluoroscopy",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "tool": "dilator",
+        "start": 15,
+        "end": 45
+      },
+      {
+        "tool": "radiofrequency probe",
+        "start": 40,
+        "end": 95
+      },
+      {
+        "tool": "suction",
+        "start": 50,
+        "end": 370
+      },
+      {
+        "tool": "grasper",
+        "start": 65,
+        "end": 190
+      },
+      {
+        "tool": "scissors",
+        "start": 85,
+        "end": 155
+      },
+      {
+        "tool": "drill",
+        "start": 110,
+        "end": 175
+      },
+      {
+        "tool": "Kerrison rongeur",
+        "start": 125,
+        "end": 195
+      },
+      {
+        "tool": "radiofrequency probe",
+        "start": 160,
+        "end": 225
+      },
+      {
+        "tool": "hook probe",
+        "start": 180,
+        "end": 240
+      },
+      {
+        "tool": "pituitary rongeur",
+        "start": 205,
+        "end": 270
+      },
+      {
+        "tool": "grasper",
+        "start": 230,
+        "end": 310
+      },
+      {
+        "tool": "bipolar radiofrequency",
+        "start": 280,
+        "end": 340
+      },
+      {
+        "tool": "nerve root retractor",
+        "start": 245,
+        "end": 295
+      },
+      {
+        "tool": "suction",
+        "start": 320,
+        "end": 375
+      },
+      {
+        "tool": "hook probe",
+        "start": 335,
+        "end": 370
+      }
+    ],
+    "analyzedAt": "2026-06-20T12:01:52.547825Z"
+  },
+  "fa2979a2-d500-4d04-b790-a4cc3f5f4996": {
+    "summary": "This video documents a left-sided, 45-degree multiportal endoscopic decompression for spinal stenosis. The procedure involves accessing the spinal canal through multiple small incisions to decompress neural elements affected by stenosis. The video appears to cover the entirety of the surgical intervention, from initial access to final closure.",
+    "steps": [
+      "Preparation and initial portal placement.",
+      "Insertion of the endoscope and visualization of the surgical field.",
+      "Identification of the stenotic segment and relevant anatomical landmarks.",
+      "Dissection and removal of hypertrophied ligamentum flavum and/or facet joint hypertrophy.",
+      "Decompression of the neural elements (nerve roots and/or thecal sac).",
+      "Hemostasis and irrigation.",
+      "Closure of the portals."
+    ],
+    "findings": [
+      "Evidence of spinal stenosis.",
+      "Hypertrophy of ligamentum flavum.",
+      "Facet joint hypertrophy.",
+      "Compression of neural structures."
+    ],
+    "timeline": [
+      {
+        "tool": "endoscope",
+        "start": 0,
+        "end": 1678
+      },
+      {
+        "tool": "suction",
+        "start": 45,
+        "end": 150
+      },
+      {
+        "tool": "grasper",
+        "start": 60,
+        "end": 200
+      },
+      {
+        "tool": "hook",
+        "start": 100,
+        "end": 350
+      },
+      {
+        "tool": "radiofrequency probe",
+        "start": 150,
+        "end": 400
+      },
+      {
+        "tool": "scissors",
+        "start": 250,
+        "end": 500
+      },
+      {
+        "tool": "grasper",
+        "start": 300,
+        "end": 600
+      },
+      {
+        "tool": "suction",
+        "start": 450,
+        "end": 700
+      },
+      {
+        "tool": "hook",
+        "start": 550,
+        "end": 800
+      },
+      {
+        "tool": "grasper",
+        "start": 700,
+        "end": 1000
+      },
+      {
+        "tool": "radiofrequency probe",
+        "start": 800,
+        "end": 1100
+      },
+      {
+        "tool": "scissors",
+        "start": 900,
+        "end": 1200
+      },
+      {
+        "tool": "grasper",
+        "start": 1000,
+        "end": 1300
+      },
+      {
+        "tool": "suction",
+        "start": 1200,
+        "end": 1400
+      },
+      {
+        "tool": "hook",
+        "start": 1300,
+        "end": 1500
+      },
+      {
+        "tool": "grasper",
+        "start": 1400,
+        "end": 1600
+      },
+      {
+        "tool": "suction",
+        "start": 1500,
+        "end": 1650
+      }
+    ],
+    "analyzedAt": "2026-06-17T16:11:00.931907Z"
+  },
+  "ae572ee1-ac9b-444d-a810-67c88cb36b4c": {
+    "summary": "This video documents a left-sided, 45-degree multiportal endoscopic decompression for spinal stenosis. The procedure involves accessing the spinal canal through multiple small incisions to decompress neural elements. The video appears to cover the majority of the surgical steps, from initial access to final decompression.",
+    "steps": [
+      "Patient positioning and preparation for left-sided posterior approach.",
+      "Establishment of initial portal for endoscopic visualization.",
+      "Insertion of additional portals for instrument manipulation.",
+      "Identification of the stenotic segment and relevant anatomical landmarks.",
+      "Careful dissection and removal of hypertrophied ligamentum flavum.",
+      "Decompression of thecal sac and nerve roots.",
+      "Hemostasis achieved.",
+      "Closure of portals."
+    ],
+    "findings": [
+      "Left-sided spinal stenosis.",
+      "Hypertrophy of ligamentum flavum.",
+      "Potential impingement on neural elements."
+    ],
+    "timeline": [
+      {
+        "tool": "endoscope",
+        "start": 0,
+        "end": 1410
+      },
+      {
+        "tool": "retractor",
+        "start": 15,
+        "end": 1400
+      },
+      {
+        "tool": "suction",
+        "start": 40,
+        "end": 1350
+      },
+      {
+        "tool": "hook",
+        "start": 50,
+        "end": 1200
+      },
+      {
+        "tool": "grasper",
+        "start": 60,
+        "end": 1150
+      },
+      {
+        "tool": "scissors",
+        "start": 70,
+        "end": 1100
+      },
+      {
+        "tool": "radiofrequency probe",
+        "start": 80,
+        "end": 1050
+      }
+    ],
+    "analyzedAt": "2026-06-20T11:28:57.973917Z"
+  }
+}
