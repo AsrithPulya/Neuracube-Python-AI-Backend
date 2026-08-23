@@ -24,14 +24,14 @@ def test_medgemma():
 
     # Payload to send to MedGemma
     payload = {
-        "model": "medgemma-4b-it",
+        "model": "medgemma-27b-it",
         "messages": [
             {
                 "role": "user",
                 "content": "Hello, are you online? Respond with a short confirmation."
             }
         ],
-        "max_tokens": 100,
+        "max_tokens": 8192,
         "temperature": 0.7
     }
 

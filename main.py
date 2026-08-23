@@ -65,7 +65,7 @@ async def call_medgemma_text(prompt: str, system_prompt: str = "") -> str:
     data = {
         "model": "medgemma-27b-it",
         "messages": messages,
-        "max_tokens": 2048,
+        "max_tokens": 8192,
         "temperature": 0.2
     }
     
@@ -94,7 +94,7 @@ async def call_medgemma_vision(prompt: str, base64_image: str) -> str:
                 ]
             }
         ],
-        "max_tokens": 2048,
+        "max_tokens": 8192,
         "temperature": 0.2
     }
     
@@ -829,14 +829,14 @@ async def perform_ai_analysis(title: str, length: int) -> dict:
             )
             
             data_to_send = {
-                "model": "medgemma-4b-it",
+                "model": "medgemma-27b-it",
                 "messages": [
                     {
                         "role": "user",
                         "content": prompt
                     }
                 ],
-                "max_tokens": 1500,
+                "max_tokens": 8192,
                 "temperature": 0.3
             }
             
